@@ -8,7 +8,7 @@ Web_is_even_or_odd_number_checker.html
 You can see the program document using :  
 "jsdoc Web_is_even_or_odd_number_checker.js"  
  while CMD is in the Web-is-even-or-odd-number-checker-JavaScript directory  
- note that you must have installed a Node.js version and install jsdoc using :
+ note that you must have installed a Node.js version and install jsdoc using :  
  "npm install -g jsdoc" before using jsdoc command.  
   
 Feel free to contact me at:  
